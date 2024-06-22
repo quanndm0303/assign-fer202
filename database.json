@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "john_doe",
+      "password": "password123",
+      "campus": "New York"
+    },
+    {
+      "username": "jane_smith",
+      "password": "password456",
+      "campus": "Los Angeles"
+    },
+    {
+      "username": "sam_adams",
+      "password": "password789",
+      "campus": "Chicago"
+    }
+  ]
+}
