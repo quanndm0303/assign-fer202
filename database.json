@@ -1,19 +1,28 @@
 {
   "users": [
     {
-      "username": "john_doe",
-      "password": "password123",
-      "campus": "New York"
+      "username": "studenthl@gmail.com",
+      "password": "123",
+      "campus": "hl",
+      "role": "student"
     },
     {
-      "username": "jane_smith",
-      "password": "password456",
-      "campus": "Los Angeles"
+      "username": "studentct@gmail.com",
+      "password": "123",
+      "campus": "ct",
+      "role": "student"
     },
     {
-      "username": "sam_adams",
-      "password": "password789",
-      "campus": "Chicago"
+      "username": "studentdn@gmail.com",
+      "password": "123",
+      "campus": "dn",
+      "role": "student"
+    },
+    {
+      "username": "studentqn@gmail.com",
+      "password": "123",
+      "campus": "qn",
+      "role": "student"
     }
   ]
 }
